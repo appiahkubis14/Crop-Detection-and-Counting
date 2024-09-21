@@ -49,6 +49,6 @@ The dataset used for training and testing consists of images of various crops. E
    pip install opencv-python numpy tensorflow # or torch for PyTorch
 
 ![val_batch1_labels](https://github.com/user-attachments/assets/d0e07bf9-8e5f-4e96-a0c9-2294db1b6732)
-![val_batch1_labels (1)](https://github.com/user-attachments/assets/56aa4f5a-f554-4c66-92e6-ea013dc0a291)
-![val_batch0_pred](https://github.com/user-attachments/assets/4b4d3e52-8c67-4366-a8e8-4d09ced8377b)
-![train_batch882](https://github.com/user-attachments/assets/c34c25f0-ff38-4bfc-9615-92457dea9d93)
+![val_batch1_labels (1)](https://github.com/user-attachments/assets/56aa4f5a-f554-4c66-92e6-ea013dc0a291){: width="400" height="300"}
+![val_batch0_pred](https://github.com/user-attachments/assets/4b4d3e52-8c67-4366-a8e8-4d09ced8377b){: width="400" height="300"}
+![train_batch882](https://github.com/user-attachments/assets/c34c25f0-ff38-4bfc-9615-92457dea9d93){: width="400" height="300"}
